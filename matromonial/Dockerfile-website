@@ -1,4 +1,3 @@
-```docker
 FROM node:12.22.1
 
 WORKDIR /app
@@ -24,7 +23,3 @@ CMD ["npm", "run", "serve"]
 
 
 
-
-
-
-```
