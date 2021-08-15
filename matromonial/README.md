@@ -1,7 +1,5 @@
 # README.md
 ### i don't know  -in Dockerfile
-- WORKDIR
-- COPY 
 - USER
 
 ### Dockerfile
